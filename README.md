@@ -45,9 +45,9 @@ Originally I started Frontend Development because I thought my designs for devel
 Next up: Test Driven Development and Web3
 
 ### 🎯 Management
-My career actually started as being an entierly unexperienced CEO of a startup I founded with a couple of friends of mine. I have struggled with my studies, since I am simply unable to learn things that I am not passionate about or I don't believe make sense to learn. After one year being speaker at the General Students Committee and another year of being president at the student parliament, I knew that responsibility is pushing my motivation to unknown heights. So I founded and we grew for almost 5 years. From 5 people to more than a dozen. From small projects for private people to projects with huge corporates. I love people and theres nothing more fulfilling for me than to lay the ground for people to unfold their potential and say true to themselves. This is what I am best with:
+My career actually started as being an entierly unexperienced CEO of a startup I founded with a couple of friends of mine. I have struggled with my studies, since I am simply unable to learn things that I am not passionate about or I don't believe make sense to learn. After one year being speaker at the General Students Committee and another year of being president at the student parliament, I knew that responsibility is pushing my motivation to unknown heights. So I founded and we grew for almost 5 years. From 5 people to more than a dozen. From small projects for private people to projects with huge corporates. Until a single project with a fixed price killed us, probably the biggest mistake in my career up until yet. Anyways, I can call it history and actually don't regret the journey at all. I still love teams and people and theres nothing more fulfilling for me than to lay the ground for people to unfold their potential and stay true to themselves. This is what I am best with:
 
-- Atlassian Suite: Jira, Confluence, Jira Service Managment
+- Atlassian Suite: Jira and Confluence
 - Slack
 - Google Suite
 - Hiring & Interviews
@@ -57,6 +57,8 @@ My career actually started as being an entierly unexperienced CEO of a startup I
 - Turn bad habits into good ones - one by one
 - Automating processes with the above tools
 - Administrating above tools
+- Key Performance Indicators
+- Customer Communication
 
 Next up: Atomic Habits and Deep Work
 
