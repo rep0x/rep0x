@@ -25,6 +25,8 @@ One of my beloved disciplines is Design from strategic Design Thinking and gener
   - Adobe Photoshop
 - Sketch
 
+Next up: Figma Prototyping and Animations
+
 ### 📱 Frontend
 Originally I started Frontend Development because I thought my designs for developers are too bad. Not in a sense they would not have been beautiful, but in the sense that it was very hard to implement the designs I have been doing. So I decided to learn it to improve my design preparation for developers - turns out I fucking love coding. I also learned that Clean Code and Developer Experience is something I am naturally really good with because of my Design background, leading to a great synergy. This is what I am pretty good with:
 
@@ -33,9 +35,31 @@ Originally I started Frontend Development because I thought my designs for devel
 - JavaScript
 - TypeScript
 - ESLint & Prettier
-- React
-- Svelte
-- Vue
-- 
+- React > Vue > Svelte
+- Design Systems
+- Storybook
+- Material UI
+- Bootstrap
+- Webflow
+
+Next up: Test Driven Development and Web3
 
 ### 🎯 Management
+My career actually started as being an entierly unexperienced CEO of a startup I founded with a couple of friends of mine. I have struggled with my studies, since I am simply unable to learn things that I am not passionate about or I don't believe make sense to learn. After one year being speaker at the General Students Committee and another year of being president at the student parliament, I knew that responsibility is pushing my motivation to unknown heights. So I founded and we grew for almost 5 years. From 5 people to more than a dozen. From small projects for private people to projects with huge corporates. I love people and theres nothing more fulfilling for me than to lay the ground for people to unfold their potential and say true to themselves. This is what I am best with:
+
+- Atlassian Suite: Jira, Confluence, Jira Service Managment
+- Slack
+- Google Suite
+- Hiring & Interviews
+- Agile Management 
+- Establish bottom up processes
+- Finding the right Mission, Goals and Values
+- Turn bad habits into good ones - one by one
+- Automating processes with the above tools
+- Administrating above tools
+
+Next up: Atomic Habits and Deep Work
+
+## Fun Facts
+Some fun facts about me:
+- I'm so addicted to fundamentals that I am even practice typing with [keybr.com](https://www.keybr.com/profile/d479f9n). Today (January 2022) my average words per minute are ~65.
